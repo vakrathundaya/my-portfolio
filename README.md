@@ -1,13 +1,11 @@
-# myPortfolio
+# Portfolio
 
 Description
 -----------
 
 This project is to build portofolio website which tells about me and my work and how to contact me.
 
-
-![Web capture_30-1-2022_72955_](https://user-images.githubusercontent.com/94205464/151699709-745cc1fb-c6b2-4bfb-9192-ee8a51170054.jpeg)
-
+![Web capture_30-1-2022_72955_](https://user-images.githubusercontent.com/94205464/151705249-72e39aab-3646-4ba8-a7d8-a5eeefc6960e.jpeg)
 
 Tasks completed
 ---------------

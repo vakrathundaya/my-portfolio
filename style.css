@@ -47,7 +47,6 @@ h3 {font-size: 28px;}
 h4 {font-size: 24px;}
 h5 {font-size: 20px;}
 h6 {font-size: 16px;}
-/* h6:hover{background-color: #17a2b8;} */
 
 .s1{
     background-color: var(--maincolor);
@@ -101,14 +100,6 @@ h6 {font-size: 16px;}
     margin-left: 5px;
 }
 
-.browser-dot{
-    background-color: black;
-    height: 15px;
-    width: 15px;
-    border-radius: 50%;
-    margin: 5px; 
-}
-
 .left-column{
     grid-area: left-column;
     /* background-color: var(--maincolor); */
@@ -149,7 +140,10 @@ h6 {font-size: 16px;}
 
 #tech{
     text-align: center;
-}
+    color:black;
+    border: 1px;
+    position:relative;   
+   }
 
 .post-wrapper{
     display: grid;

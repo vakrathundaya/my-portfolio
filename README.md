@@ -1,35 +1,47 @@
-# Portfolio
+# Radhika Portfolio
 
-Description
------------
+  ![Github licence](http://img.shields.io/badge/license-""-blue.svg)
+  
+  ## Description 
+  
+  This is my portfolio to showcase a little bit about me, my work, my resume, and how to contact me.
 
-This project is to build portofolio website which tells about me and my work and how to contact me.
 
-![Web capture_30-1-2022_101238_](https://user-images.githubusercontent.com/94205464/151705485-095202d2-dd1d-4eeb-953a-51a506d8aa68.jpeg)
+  ## Table of Contents
 
-Tasks completed
----------------
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
+  
 
-I updated my portfolio with my projects
+  ## Installation 
 
-updated github
+  This does not require installation.
 
-Links
-------
+  ## Usage 
 
-Link to the deployed website
+  The usage of this application should only be to view my portfolio.Please see the deployed Github [URL](https://vakrathundaya.github.io/portfolio2/)
 
-https://vakrathundaya.github.io/portfolio/
 
-Link to the code repository
+  ## License 
 
-https://github.com/vakrathundaya/portfolio
+  This project is license under ""
 
-Installation
-------------
 
-The website was deployed using GitHub Pages.
+  ## Contributing 
 
-Usage
------
-Once deployed the application can be viewed in a traditional desktop web browser. It is optimized for smaller screens.
+  Contributors should read the installation section. 
+
+
+  ## Tests
+
+  There are no tests for this application. 
+
+
+  ## Questions
+
+  If you have any questions about this projects, please contact me directly at cu9rad@gmail.com. You can view more of my projects at https://github.com/vakrathundaya.
+  

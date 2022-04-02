@@ -23,7 +23,7 @@
 
   ## Usage 
 
-  The usage of this application should only be to view my portfolio.Please see the deployed Github [URL](https://vakrathundaya.github.io/my-portfolio/)
+  The usage of this application should only be to view my portfolio.Please see the deployed Github [URL](https://vakrathundaya.github.io/portfolio/)
 
 
   ## License 

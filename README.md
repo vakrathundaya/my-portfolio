@@ -1,4 +1,4 @@
-# Radhika Portfolio
+# Portfolio
 
   ![Github licence](http://img.shields.io/badge/license-""-blue.svg)
   
